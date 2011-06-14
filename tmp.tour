@@ -1,0 +1,8 @@
+Robots: 
+/usr/lib/realtimebattle/Robots/bigpresspuntonet_es_nan.robot 
+/usr/lib/realtimebattle/Robots/camperbot.robot 
+Arenas: 
+/usr/lib/realtimebattle/Arenas/Circle.arena 
+Robots/Sequence: 2
+Games/Sequence: 1
+Sequences: 1
