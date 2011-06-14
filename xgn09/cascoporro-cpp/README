@@ -1,0 +1,9 @@
+AUTOR:  Joaquin Martin Martin
+
+ID: 4797
+
+LICENCIA: Licencia de uso libre sin restricciones para todo el software incluido en el paquete, incluido tambien la remejora "Anton Pirulero" y otras tecnicas avanzadas de programacion de ataque RTB para uso libre sin restricciones.
+El autor no se hace responsable del daño causado a otros robots de RTB por su uso indiscriminado.
+
+MODO DE COMPILACION:
+g++ cascoporro.cc -Wall -o /usr/lib/realtimebattle/Robots/cascoporro.robot

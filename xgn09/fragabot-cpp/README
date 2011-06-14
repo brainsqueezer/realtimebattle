@@ -1,0 +1,7 @@
+Robot Chiquilibot de Javier Álvarez Lago numero 308.
+
+para compilar 
+
+g++ -o fragabot.robot ja14.cc
+
+Pasando de los warnings

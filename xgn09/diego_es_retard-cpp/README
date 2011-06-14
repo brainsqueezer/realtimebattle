@@ -1,0 +1,7 @@
+
+  GNU GPL3
+  Autor: Samuel Jarque Abizanda
+
+  Compilar:
+  g++ -o diego_es_retard.robot diego_es_retard.cc -I/usr/include/realtimebattle/
+

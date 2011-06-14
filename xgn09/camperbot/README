@@ -1,0 +1,14 @@
+Robot para Real Time Battle:
+
+	Camperbot
+
+Autor:
+	Severo Javier Castro Garrido
+Id XGN:
+	1383
+Licencia:
+	GPL (véase archivo LICENSE)
+	
+Instruccións de compilación:
+
+	g++ camperbot.cpp -o camperbot.robot

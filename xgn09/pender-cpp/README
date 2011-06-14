@@ -1,0 +1,8 @@
+AUTOR: 
+David Jiménez de Paz (3362)
+
+LICENCIA: 
+Este programa y su código tiene una licencia gratuita sin restricciones.
+
+INSTRUCCIONES DE COMPILACIÓN:
+Con el g++ instalado, ejecutar el fichero Makefile adjunto con la instrucción 'make'

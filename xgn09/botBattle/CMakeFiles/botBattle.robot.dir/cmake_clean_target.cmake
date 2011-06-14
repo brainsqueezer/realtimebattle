@@ -1,0 +1,3 @@
+FILE(REMOVE
+"botBattle.robot"
+)

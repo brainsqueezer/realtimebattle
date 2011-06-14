@@ -1,0 +1,6 @@
+Este robot es distribuido bajo licencia gpl, en cuanto a su compliacion
+es muy sencilla simplemente ejecutar make en el directorio en el que se
+haya extraido, aparecera el fichero sauron.robot que debe ser copiado
+al directorio de robots de realtimebattle.
+En cuanto al robot en si es una version altamente alpha, luego es 
+posible que haya muchas cosas sin sentido en el codigo.

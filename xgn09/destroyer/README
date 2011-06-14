@@ -1,0 +1,5 @@
+Robot Destroyer de Alberto Rodríguez Ferraces.
+
+Método de compilacion: 
+
+g++ -o destroyer.robot ja13.cc

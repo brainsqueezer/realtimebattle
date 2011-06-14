@@ -1,0 +1,17 @@
+Usuario: Alejandro Foglia Ghiglione (1851). Alias: "NEMESIS"
+
+USOS DEL BOT
+============
+
+- La compilación se realiza con el sistema cmake.
+- Instalar cmake desde Debian/Ubuntu con:
+
+	sudo apt-get install cmake
+
+- Para realizar la compilación desde el directorio del bot:
+
+	cmake .
+	make
+
+- Para usar el bot, se debe copiar (hacerse con permisos de root) el archivo "botBattle.robot" al dir
+del realtimebattle (/usr/lib/realtimebattle/Robots).
